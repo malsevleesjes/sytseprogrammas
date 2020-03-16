@@ -1,0 +1,17 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Bart van Maarseveen <bartvm@Barts-Mac-mini.fritz.box>
+#
+# On branch master
+# Changes to be committed:
+	deleted:    src/App.css
+	deleted:    src/App.js
+	deleted:    src/App.test.js
+	deleted:    src/index.css
+	modified:   src/index.js
+	deleted:    src/logo.svg
+	deleted:    src/serviceWorker.js
+	deleted:    src/setupTests.js
+#
