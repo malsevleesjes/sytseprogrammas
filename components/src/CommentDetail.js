@@ -1,4 +1,5 @@
 import React from 'react';
+import faker from 'faker';
 
 const CommentDetail = props =>{
   return (
@@ -16,7 +17,7 @@ const CommentDetail = props =>{
     <div className="text">{props.commentText}</div>
   </div>
 </div>
-  )
-}
+);
+};
 
 export default CommentDetail;
